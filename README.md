@@ -3,9 +3,10 @@ Google map inside html page without using API key
 
 Developed by Abdul Rahman Al-Harbi
 
-![image](https://github.com/Abutamim3/Real-Estate-Management-System-Project-In-PHP-Free-Download-Source-Code/blob/main/Real-Estate-Management-System-Project-In-PHP-Free-Download-Source-Code/resw/1444-10-27_15h46_44.png)
-![image](https://github.com/Abutamim3/Real-Estate-Management-System-Project-In-PHP-Free-Download-Source-Code/blob/main/Real-Estate-Management-System-Project-In-PHP-Free-Download-Source-Code/resw/1444-10-28_00h40_51.png)
+![image](https://github.com/Abutamim3/Google-map-inside-html-page-without-using-API-key/blob/main/1444-10-26_04h44_53.png)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fahmedwagih.wordpress.com%2F2008%2F09%2F10%2F%25D8%25AA%25D8%25AA%25D8%25A8%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A3%25D9%2582%25D9%2585%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2586%25D8%25A7%25D8%25B9%25D9%258A%25D8%25A9-%25D8%25AD%25D9%2588%25D9%2584-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B1%25D8%25B6-%25D9%2581%25D9%258A-%25D8%25AC%25D9%2588%25D8%25AC%2F&psig=AOvVaw1Um3YG7jlDtqGc4nwwXQgh&ust=1684448007296000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjN6fqv_f4CFQAAAAAdAAAAABAJ)
 
+*******************************************************
 
 
 
@@ -16,39 +17,3 @@ Developed by Abdul Rahman Al-Harbi
 #THANK YOU FOR DOWNLOADING
 
 *******************************************************
-
-Step 1: Download source code.
-
-First, download the source code given below.
-download source code
-Step 2: Extract file.
-
-Second, after you finished download the source code, extract the zip file.
-real estate management system zip file
-Step 3: Copy project folder.
-
-Third, copy the project folder and paste it into the xampp/htdocs folder.
-real estate management system project folder
-Step 4: Open xampp.
-
-Fourth, open xampp and start the apache and MySQL.
-real estate management system open xampp
-Step 5: Open browser.
-
-Fifth, Open a browser and go to URL “http://localhost/phpmyadmin/”
-real estate management system open phpmyadmin
-Step 6: Create database.
-
-Sixth, click on databases tab and
-*****************************************************************
- Create database naming “realestate”.
-real estate management system create database
-
-
-Step 7: Import “realestate.sql”.
-**********************************************************************
-Seventh, Click on browse file and select “realestate.sql” file which is inside “database” folder and after import click “go“.
-real estate management system import sql file
-Step 8: Open browser and type folder name.
-
-Eight, Open a browser and go to URL “http://localhost/resw/”.
